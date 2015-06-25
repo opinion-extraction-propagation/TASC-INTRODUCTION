@@ -21,7 +21,7 @@ TASC-Tuples repository包括抽取社会媒体数据包含的词语之间的依�
 TASC-AdaptiveCotrainMSVM repository是话题自适应多类情感分类算法的JAVA version<br>
 
 
-# Related work <br> 
+# Related works <br> 
 *Please cite the following references in your related work.<br>
 
 [1] Shenghua Liu, Fuxin Li, Fangtao Li, Xueqi Cheng, and Huawei Shen, “Adaptive co-training svm for sentiment classification on tweets” in Proc. of the 22nd ACM International Conference on Information and Knowledge Management, (CIKM ’13). New York, NY, USA, 2013, pp. 2079–2088.<br>
