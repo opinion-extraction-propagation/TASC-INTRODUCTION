@@ -4,19 +4,19 @@
 
 TASC-* repository 描述了TASC的相关工作，包含TASC-FeatureExtraction，TASC-PTASC，TASC-Tuples,TASC-AdaptiveCotrainMSVM<br>
 
-##TASC-FeatureExtraction
+## [TASC-FeatureExtraction](https://github.com/opinion-extraction-propagation/TASC-FeatureExtraction)
 
 TASC-FeatureExtraction repository包含针对社会媒体数据集抽取特征的过程<br>
 
-##TASC-PTASC
+## [TASC-PTASC](https://github.com/opinion-extraction-propagation/TASC-PTASC)
 
 TASC-PTASC repository是并行话题自适应多类情感分类算法<br>
 
-##TASC-Tuples
+## [TASC-Tuples](https://github.com/opinion-extraction-propagation/TASC-Tuples)
 
 TASC-Tuples repository包括抽取社会媒体数据包含的词语之间的依赖关系，抽取和扩展话题相关情感词集，生成代表用户情感的三元组<用户，情感词，目标词><br>
 
-##TASC-AdaptiveCotrainMSVM
+## [TASC-AdaptiveCotrainMSVM](https://github.com/opinion-extraction-propagation/TASC-AdaptiveCotrainMSVM)
 
 TASC-AdaptiveCotrainMSVM repository是话题自适应多类情感分类算法的JAVA version<br>
 
