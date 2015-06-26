@@ -10,18 +10,18 @@ INTRODUCTION
 
 ### [TASC-PTASC](https://github.com/opinion-extraction-propagation/TASC-PTASC) <br />
 
-TASC-PTASC repository是并行话题自适应多类情感分类算法
+> TASC-PTASC repository是并行话题自适应多类情感分类算法
 
 ### [TASC-Tuples](https://github.com/opinion-extraction-propagation/TASC-Tuples) <br />
 
-TASC-Tuples repository包括抽取社会媒体数据包含的词语之间的依赖关系，抽取和扩展话题相关情感词集，生成代表用户情感的三元组<用户，情感词，目标词>.
+> TASC-Tuples repository包括抽取社会媒体数据包含的词语之间的依赖关系，抽取和扩展话题相关情感词集，生成代表用户情感的三元组<用户，情感词，目标词>.
 
 ### [TASC-AdaptiveCotrainMSVM](https://github.com/opinion-extraction-propagation/TASC-AdaptiveCotrainMSVM) <br />
 
-TASC-AdaptiveCotrainMSVM repository是话题自适应多类情感分类算法的JAVA version.
+> TASC-AdaptiveCotrainMSVM repository是话题自适应多类情感分类算法的JAVA version.
 
 ### Related works <br /> 
-*Please cite the following references in your related work.
+**Please cite the following references in your related work.**
 
 [1] Shenghua Liu, Fuxin Li, Fangtao Li, Xueqi Cheng, and Huawei Shen, “Adaptive co-training svm for sentiment classification on tweets” in Proc. of the 22nd ACM International Conference on Information and Knowledge Management, (CIKM ’13). New York, NY, USA, 2013, pp. 2079–2088.<br />
 
