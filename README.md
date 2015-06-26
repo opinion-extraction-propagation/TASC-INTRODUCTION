@@ -6,11 +6,11 @@ INTRODUCTION
 
 ### [TASC-FeatureExtraction](https://github.com/opinion-extraction-propagation/TASC-FeatureExtraction) <br />
 
-> TASC-FeatureExtraction repository包含针对社会媒体数据集抽取特征的过程
+> TASC-FeatureExtraction repository包含针对社会媒体数据集抽取特征的过程.
 
 ### [TASC-PTASC](https://github.com/opinion-extraction-propagation/TASC-PTASC) <br />
 
-> TASC-PTASC repository是并行话题自适应多类情感分类算法
+> TASC-PTASC repository是并行话题自适应多类情感分类算法.
 
 ### [TASC-Tuples](https://github.com/opinion-extraction-propagation/TASC-Tuples) <br />
 
